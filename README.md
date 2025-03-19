@@ -38,4 +38,5 @@ Feel free to fork this repository and submit pull requests with improvements or 
 ## Contact
 
 Email ID: rastogit132@gmail.com
-My LinkedIn profile: https://www.linkedin.com/in/mahima-rastogi-649b34244# Project-1_Bakery-Website
+My LinkedIn profile: https://www.linkedin.com/in/mahima-rastogi-649b34244#
+Instagram ID: https://www.instagram.com/mahimarastogi_?igsh=MTJlcmhqcWk1M3phaQ==
